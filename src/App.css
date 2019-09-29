@@ -19,6 +19,10 @@
   color: white;
 }
 
+.active {
+  background-color: #3f51b5 !important;
+  color: red;
+}
 .App-link {
   color: #61dafb;
 }
